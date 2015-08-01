@@ -17,7 +17,7 @@ http://school-live.club のソースです。
 * くるみ: [http://くるみ.school-live.club](http://xn--y8j2e9a.school-live.club) or http://school-live.club/kurumi/
 * りーさん: [http://りーさん.school-live.club](http://xn--48juf2a79a.school-live.club) or http://school-live.club/yuuri/
 * みーくん: [http://みーくん.school-live.club](http://xn--y8j1epcww.school-live.club) or http://school-live.club/miki/
-* めぐねえ: [http://めぐねえ.school-live.club](xn--r8jp1gpd.school-live.club) or http://school-live.club/megumi/
+* めぐねえ: [http://めぐねえ.school-live.club](http://xn--r8jp1gpd.school-live.club) or http://school-live.club/megumi/
 
 音声は公式サイトのキャラクターページのものが再生されます。公式サイトがダウンしている場合、上記ページでも音声が再生できなくなります。
 
