@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>くるみ</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+        <link rel="stylesheet" type="text/css" href="main.css" />
+    </head>
+    <body>
+        <header>
+            <p>(画像をクリックすると音声が流れます)</p>
+        </header>
+        <main>
+            <a onclick="speak()"></a>
+            <audio id="sound-file" preload="auto">
+                <source src="http://cdn.nbcuni.co.jp/gakkougurashi.com/core_sys/images/others/mp3/chvo2-2.mp3" type="audio/mp3" />
+            </audio>
+        </main>
+        <script type="text/javascript">
+            function speak() {
+                document.getElementById("sound-file").play();
+            }
+        </script>
+    </body>
+</html>
