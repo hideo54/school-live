@@ -23,7 +23,7 @@ http://school-live.club のソースです。
 
 ## バージョン
 
-Ver 1.1.2: 各ディレクトリのCSSを統合し、JavaScriptでCSSに各画像を追加
+Ver 1.1.2: 各ディレクトリのCSSを統合し、JavaScriptでCSSに各画像を追加  
 Ver 1.1.1: "Fork me on GitHub"リボンを全ページに追加  
 Ver 1.1: 各キャラクターページを追加  
 Ver 1.0: トップページ建立
