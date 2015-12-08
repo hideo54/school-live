@@ -13,16 +13,17 @@ http://school-live.club のソースです。
 
 画像をクリックすると、各キャラクターの音声が再生されます。
 
-* ゆき: [http://ゆき.school-live.club](http://xn--w8j2f.school-live.club) or http://school-live.club/yuki/
-* くるみ: [http://くるみ.school-live.club](http://xn--y8j2e9a.school-live.club) or http://school-live.club/kurumi/
-* りーさん: [http://りーさん.school-live.club](http://xn--48juf2a79a.school-live.club) or http://school-live.club/yuuri/
-* みーくん: [http://みーくん.school-live.club](http://xn--y8j1epcww.school-live.club) or http://school-live.club/miki/
-* めぐねえ: [http://めぐねえ.school-live.club](http://xn--r8jp1gpd.school-live.club) or http://school-live.club/megumi/
+* ゆき: http://school-live.club/yuki/
+* くるみ: http://school-live.club/kurumi/
+* りーさん: http://school-live.club/yuuri/
+* みーくん: http://school-live.club/miki/
+* めぐねえ: http://school-live.club/megumi/
 
 音声は公式サイトのキャラクターページのものが再生されます。公式サイトがダウンしている場合、上記ページでも音声が再生できなくなります。
 
 ## バージョン
 
+Ver 1.2: 各キャラクターページへの日本語サブドメインページを~~めんどくさいので~~削除  
 Ver 1.1.2: 各ディレクトリのCSSを統合し、JavaScriptでCSSに各画像を追加  
 Ver 1.1.1: "Fork me on GitHub"リボンを全ページに追加  
 Ver 1.1: 各キャラクターページを追加  
