@@ -23,6 +23,7 @@ http://school-live.club のソースです。
 
 ## バージョン
 
+Ver 1.2.2: 横幅が小さい時にGitHubリボンを表示しないよう変更
 Ver 1.2.1: "Fork me on GitHub"リボンのリンクを修正  
 Ver 1.2: 各キャラクターページへの日本語サブドメインページを~~めんどくさいので~~削除  
 Ver 1.1.2: 各ディレクトリのCSSを統合し、JavaScriptでCSSに各画像を追加  

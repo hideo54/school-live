@@ -22,6 +22,12 @@ header p {
     font-family: "Lucida Grande", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
 }
 
+@media screen and (max-width: 500px) {
+    header a {
+        display: none;
+    }
+}
+
 a {
     display: block;
     width: 100%;
